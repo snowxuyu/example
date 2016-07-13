@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * Hello world!
- *
  */
 @SpringBootApplication // same as @Configuration @EnableAutoConfiguration @ComponentScan
 public class App 
