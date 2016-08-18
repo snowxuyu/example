@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
+/** 最简单的访问
  * Created by snowxuyu on 2016/7/13.
  */
 @RestController
